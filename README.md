@@ -1,0 +1,1 @@
+Upload to GitHub Pages. Replace images in images/ with real photos keeping same filenames.
